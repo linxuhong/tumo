@@ -2,9 +2,9 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="cn.tycoding.biz.mapper.ArticleMapper">
+<mapper namespace="com.big007.biz.mapper.ArticleMapper">
 
-    <select id="findByCategory" resultType="cn.tycoding.biz.entity.SysArticle">
+    <select id="findByCategory" resultType="com.big007.biz.entity.SysArticle">
         SELECT a.id, a.title, a.author, a.create_time
         FROM tb_article a,
              tb_category c,
@@ -14,7 +14,7 @@
           AND a.id = ac.article_id;
     </select>
 
-    <select id="findByTag" resultType="cn.tycoding.biz.entity.SysArticle">
+    <select id="findByTag" resultType="com.big007.biz.entity.SysArticle">
         SELECT a.id, a.title, a.author, a.create_time
         FROM tb_article a,
              tb_tag t,

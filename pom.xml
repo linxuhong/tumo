@@ -230,7 +230,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.tycoding.TumoApplication</mainClass>
+                    <mainClass>com.big007.TumoApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
