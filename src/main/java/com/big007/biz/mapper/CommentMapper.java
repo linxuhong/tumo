@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 /**
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public interface CommentMapper extends BaseMapper<SysComment> {

@@ -13,7 +13,7 @@ import springfox.documentation.annotations.ApiIgnore;
 /**
  * 博客前台页面路由
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @ApiIgnore

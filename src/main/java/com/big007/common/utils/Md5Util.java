@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * Shiro 加密工具
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Component
@@ -46,5 +46,15 @@ public class Md5Util {
                 StringUtils.lowerCase(StringUtils.lowerCase(password)),
                 shiro.getCipherKey(),
                 HASH_ITERATIONS).toHex();
+    }
+
+    public static void main(String[] args) {
+        String password = "123456";
+      String enc=  new SimpleHash(
+                ALGORITH_NAME,
+                StringUtils.lowerCase(StringUtils.lowerCase(password)),
+                "big007@foxmail.com",
+                HASH_ITERATIONS).toHex();
+        System.out.println(enc);
     }
 }

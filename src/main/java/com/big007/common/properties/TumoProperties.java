@@ -8,7 +8,7 @@ import org.springframework.context.annotation.PropertySource;
 /**
  * 系统配置类定义
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Data

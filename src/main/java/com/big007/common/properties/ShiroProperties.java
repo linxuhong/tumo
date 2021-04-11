@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * Shiro配置参数
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Data

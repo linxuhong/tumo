@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
  * 在前后端分离项目中，请求都是异步的，请求执行过程无论是否正常都应该返回指定JSON格式对象（R）
  * 但是在单体项目中，请求不一定是异步的，返回JSON数据可能也并不友好，此时需要返回一个自定义错误页面
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Slf4j

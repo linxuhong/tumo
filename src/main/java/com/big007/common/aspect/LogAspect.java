@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Log 切面
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Aspect

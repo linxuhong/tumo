@@ -3,7 +3,7 @@ package com.big007.common.constants;
 /**
  * 项目公共常量定义
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public interface CommonConstant {

@@ -6,7 +6,7 @@ import lombok.Getter;
 /**
  * 项目通用枚举类
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Getter

@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * @Log 注解自定义
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Target(ElementType.METHOD)

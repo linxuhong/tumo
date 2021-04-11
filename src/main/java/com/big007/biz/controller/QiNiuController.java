@@ -39,10 +39,10 @@ import java.util.*;
 /**
  * 对七牛云对象储存的操作接口
  * 关于七牛云开放的Java-API文档请看：https://developer.qiniu.com/kodo/sdk/1662/java-sdk-6
- * 文件上传的DEMO请看 /test/java/cn/tycoding/UploadDemo.java 测试类。
+ * 文件上传的DEMO请看 /test/java/cn/big007@foxmail.com/UploadDemo.java 测试类。
  * 请先到七牛云个人控制中心查看Access key 和 Secret Key
  *
- * @auther TyCoding
+ * @auther big007@foxmail.com
  * @date 2020/6/28
  */
 @Slf4j

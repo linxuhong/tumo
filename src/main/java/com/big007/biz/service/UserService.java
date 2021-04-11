@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 
 /**
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public interface UserService extends IService<SysUser> {

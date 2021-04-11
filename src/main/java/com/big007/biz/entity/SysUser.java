@@ -14,7 +14,7 @@ import java.util.Date;
 /**
  * 用户信息实体类
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Data

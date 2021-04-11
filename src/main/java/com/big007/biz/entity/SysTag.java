@@ -9,7 +9,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Data

@@ -230,7 +230,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.big007.TumoApplication</mainClass>
+                    <mainClass>com.big007.Big007BlogApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

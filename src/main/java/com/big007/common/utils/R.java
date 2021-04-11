@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 全局请求响应结果封装
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 @Builder

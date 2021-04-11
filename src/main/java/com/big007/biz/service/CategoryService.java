@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 
 /**
- * @author TyCoding
+ * @author big007@foxmail.com
  * @date 2018/10/18
  */
 public interface CategoryService extends IService<SysCategory> {

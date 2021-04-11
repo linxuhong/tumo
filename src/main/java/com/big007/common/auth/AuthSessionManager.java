@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * 自定义SessionManager。拦截前端请求，判断Token信息等
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public class AuthSessionManager extends DefaultWebSessionManager {

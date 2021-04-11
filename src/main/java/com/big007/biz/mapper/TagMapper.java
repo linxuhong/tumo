@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import java.util.List;
 
 /**
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public interface TagMapper extends BaseMapper<SysTag> {

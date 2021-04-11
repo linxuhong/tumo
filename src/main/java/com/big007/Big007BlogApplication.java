@@ -7,14 +7,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * SpringBoot启动器类
  *
- * @author tycoding
+ * @author
  * @date 2020/6/27
  */
 @SpringBootApplication
 @MapperScan("com.big007.biz.mapper")
-public class TumoApplication {
+public class Big007BlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TumoApplication.class, args);
+        SpringApplication.run(Big007BlogApplication.class, args);
     }
 }

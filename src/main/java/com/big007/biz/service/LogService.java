@@ -9,7 +9,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
 import org.springframework.scheduling.annotation.Async;
 
 /**
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public interface LogService extends IService<SysLog> {

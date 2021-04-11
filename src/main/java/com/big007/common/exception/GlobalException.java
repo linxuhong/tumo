@@ -6,7 +6,7 @@ import lombok.Setter;
 /**
  * 全局异常处理
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public class GlobalException extends RuntimeException {

@@ -9,7 +9,7 @@ import java.util.Objects;
 /**
  * 获取HttpServletRequest对象
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/27
  */
 public class HttpContextUtil {

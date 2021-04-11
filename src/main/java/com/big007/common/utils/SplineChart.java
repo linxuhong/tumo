@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * HighChart.js Spline图表数据封装
  *
- * @author tycoding
+ * @author big007@foxmail.com
  * @date 2020/6/28
  */
 @Data
